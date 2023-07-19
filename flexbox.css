@@ -1,0 +1,199 @@
+.container{
+padding: -5%;
+padding-left: 10%;
+text-align: center;
+display: flex;
+flex-direction: column;
+flex-basis: 20%;
+transform: scale(0.78);
+
+
+}
+
+.header{
+    background-color: blue;
+    padding-top: -5%;
+    margin-left: 30%;
+    margin-right: 15%;
+    margin-top: 6%;
+    text-align: center;
+}
+
+.main{
+    background-color: rgb(147, 138, 12);
+    padding-left: 30%;
+    padding-top: 22%;
+    padding-bottom: -7%;
+    margin-left: 30%;
+    margin-right: 15%;
+    margin-top: -1%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.text{
+    padding-top: 15%;
+    margin-top: -60%;
+    margin-right: 100%;
+    padding-left: -5%;
+}
+
+.footer{
+    background-color: rgb(25, 190, 94);
+    margin-left: 30%;
+    margin-right: 15%;
+    margin-top: -3%;
+    text-align: center;
+}
+
+
+.container1{
+    padding: -15%;
+    margin-left: 16%;
+    padding-left: 10%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20%;
+    transform: scale(0.88);
+}
+.header1{
+    background-color: blue;
+    padding-top: -5%;
+    padding-right: 15%;
+    margin-left: 1%;
+    margin-right: 15%;
+    margin-top: 7%;
+    text-align: center;
+}
+
+.main1{
+    background-color: rgb(147, 138, 12);
+    padding-left: 30%;
+    padding-top: 30%;
+    padding-bottom: -7%;
+    margin-left: 1%;
+    margin-right: 15%;
+    margin-top: -1%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.tet{
+    padding-top: 15%;
+    margin-top: -60%;
+    margin-right: 100%;
+    padding-left: -5%;
+}
+
+.footer1{
+    background-color: rgb(25, 190, 94);
+    margin-left: 1%;
+    margin-right: 15%;
+    margin-top: -1%;
+    padding-top:2%;
+    text-align: center;
+}
+.test{
+    background-color: rgb(190, 25, 157);
+   margin-left: -55.5%;
+   margin-right: 135%;
+   margin-top: -21%;
+   padding-top: 36%;
+   padding-bottom: 45%;
+   
+}
+
+.container2{
+    padding: -15%;
+    padding-left: -15%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 20%;
+    transform: scale(0.98);
+}
+.header2{
+    background-color: blue;
+    padding-top: 1%;
+    margin-left: -2%;
+    margin-right: 15%;
+    margin-top: 14%;
+    text-align: center;
+}
+
+.main2{
+    background-color: rgb(147, 138, 12);
+    padding-left: 30%;
+    padding-top: 22%;
+    padding-bottom: -7%;
+    margin-left: -2%;
+    margin-right: 15%;
+    margin-top: -1%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+
+.footer2{
+    background-color: rgb(25, 190, 94);
+    margin-left: -2%;
+    margin-right: 15%;
+    margin-top: -3%;
+    text-align: center;
+}
+.test2{
+    background-color: rgb(190, 25, 157);
+   margin-left: -52.7%;
+   margin-right: 133%;
+   margin-top: -48.2%;
+   padding-top: 15%;
+   padding-bottom: 45%;
+   
+}
+.tesst{
+    
+    text-align: center;
+}
+.bas{
+    background-color: rgb(0, 255, 115);
+    margin-top: -35%;
+    padding-top: 18%;
+    margin-left: -53%;
+    padding-left: 5.5%;
+    margin-right: 133%;
+    padding-right: -5%;
+}
+.red{
+    background-color: red;
+    margin-top: -56.8%;
+    margin-left: 56%;
+    padding-top: 20%;
+    text-align: center;
+}
+.test3{
+    background-color: rgb(190, 25, 157);
+   margin-left: -52.7%;
+   margin-right: 133%;
+   margin-top: -25%;
+   padding-top: 15%;
+   padding-bottom: 45%;
+}
+
+.bas3{
+    background-color: rgb(0, 255, 115);
+    margin-top: -35%;
+    padding-top: 20%;
+    margin-left: -53%;
+    padding-left: 5%;
+    margin-right: 133%;
+    padding-right: -5.5%;
+}
+.tesst3{
+    text-align: center;
+    margin-top: -10%;
+    margin-left: -33%;
+}
