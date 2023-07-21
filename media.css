@@ -1,0 +1,46 @@
+.body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.menu{
+    display: flex;
+    margin: 100px;
+    padding: 23%;
+    margin-top: -150px;
+    justify-content: center;
+    
+}
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    margin-top: 7%;
+    
+}
+.item1{
+    background-color: #628870;
+}
+.item2{
+    background-color: #393e3a;
+}
+.item3{
+    background-color: #d0d578;
+}
+.item4{
+    background-color: #628870;
+}
+.item5{
+    background-color: #393e3a;
+}
+/* max, si l'ecran est inf ou egal alors{...}*/
+@media (max-width: 800px){
+    .menu{
+        flex-direction: column;
+        height: auto;
+    }
+    .item{
+        height: 50px;
+    }
+}
